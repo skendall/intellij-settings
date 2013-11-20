@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="libraries">
+      <project id="categorization-ui" values="groovy" />
+      <project id="caat" values="groovy" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="caat" values="Remote" />
+    </group>
+    <group name="language-level">
+      <project id="wstest" values="JDK_1_7" />
+      <project id="kndl-util" values="JDK_1_7" />
+      <project id="categorization-ui" values="JDK_1_6" />
+      <project id="caat" values="JDK_1_7" />
+    </group>
+    <group name="module type">
+      <project id="wstest" values="JAVA_MODULE" />
+      <project id="kndl-util" values="JAVA_MODULE" />
+      <project id="categorization-ui" values="JAVA_MODULE" />
+      <project id="caat" values="JAVA_MODULE" />
+    </group>
+    <group name="vcs">
+      <project id="categorization-ui" values="Git" />
+      <project id="caat" values="Git" />
+    </group>
+    <group name="frameworks">
+      <project id="wstest" values="scala" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="kndl-util" values="Application" />
+      <project id="caat" values="JUnit,TestNG" />
+    </group>
+    <group name="file-type">
+      <project id="wstest" values="UNKNOWN,PLAIN_TEXT,JavaScript,IDEA_MODULE,Properties,CSS,JAVA,Play2,Images,XML,Scala" />
+      <project id="kndl-util" values="UNKNOWN,PLAIN_TEXT,IDEA_PROJECT,IDEA_WORKSPACE,Properties,JAVA,IDEA_MODULE,Groovy,XML,ARCHIVE" />
+      <project id="categorization-ui" values="JAVA,UNKNOWN,HTML,Images,ARCHIVE,Native,IDEA_PROJECT,PLAIN_TEXT,JavaScript,JSON,Groovy,CSS,IDEA_WORKSPACE,IDEA_MODULE,Properties,XML" />
+      <project id="caat" values="IDEA_MODULE,DTD,HTML,UNKNOWN,PLAIN_TEXT,CSS,IDEA_PROJECT,SQL files,Groovy,C#,ARCHIVE,Images,Native,JAVA,JavaScript,Properties,IDEA_WORKSPACE,JSON,XML,C++" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="wstest" values="DEFAULT" />
+      <project id="kndl-util" values="DEFAULT" />
+      <project id="categorization-ui" values="DEFAULT" />
+      <project id="caat" values="DEFAULT" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="wstest" values="Project,Project" />
+      <project id="kndl-util" values="Project,Project" />
+      <project id="categorization-ui" values="Project,Project" />
+      <project id="caat" values="Project,Project" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.Application.Run" count="24" />
+      <entry feature="execute.JUnit.Run" count="5" />
+      <entry feature="execute.Remote.Debug" count="74" />
+      <entry feature="execute.TestNG.Debug" count="2" />
+      <entry feature="execute.TestNG.Run" count="91" />
+    </counts>
+  </component>
+</application>
+

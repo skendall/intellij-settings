@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="PasswordDatabase">
+    <option name="MASTER_PASSWORD_INFO" value="01000000d08c9ddf0115d1118c7a00c04fc297eb01000000efb61b6159828a429c5d9e30b1ec19c800000000160000004d006100730074006500720020004b0065007900000003660000c000000010000000bd520fd66a1000cfaa6c2e26d34db62b0000000004800000a000000010000000d5462c2c5841fa4b332b9f7cd7986dbe080000007d6ce7aec4c0220b14000000e2704333fca5b7ba3ca287158f0df9a53976001e" />
+    <option name="PASSWORDS">
+      <array>
+        <array>
+          <option value="a4081bb3fb98e3a9b370a33c1b5dea49b9adf9f2dc2d2659c0fa25fc8c8960ed" />
+          <option value="1791a53c37fcf17eb684a90b7aa0443b07bcf381d96bdf4b1a9201ff087804f7" />
+        </array>
+        <array>
+          <option value="3ced34ff5fa8ae8d8b33c697c12493d0" />
+          <option value="ba6fbffd57ad6072c37b3906b3adc098f7367695dd9168d470cb7d1dfbca08ed" />
+        </array>
+      </array>
+    </option>
+  </component>
+  <component name="SSHConnectionSettings">
+    <successfulAuthentication user="git@github.com" method="publickey" />
+  </component>
+</application>
+
