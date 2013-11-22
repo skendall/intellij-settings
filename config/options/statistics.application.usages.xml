@@ -2,52 +2,52 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="libraries">
-      <project id="caat" values="groovy" />
       <project id="categorization-ui" values="groovy" />
-    </group>
-    <group name="run-configuration-type">
-      <project id="caat" values="Remote" />
+      <project id="caat" values="groovy" />
     </group>
     <group name="language-level">
       <project id="wstest" values="JDK_1_7" />
       <project id="kndl-util" values="JDK_1_7" />
-      <project id="caat" values="JDK_1_7" />
       <project id="categorization-ui" values="JDK_1_6" />
+      <project id="caat" values="JDK_1_7" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="caat" values="Remote" />
+    </group>
+    <group name="vcs">
+      <project id="categorization-ui" values="Git" />
+      <project id="caat" values="Git" />
     </group>
     <group name="module type">
       <project id="wstest" values="JAVA_MODULE" />
       <project id="kndl-util" values="JAVA_MODULE" />
-      <project id="caat" values="JAVA_MODULE" />
       <project id="categorization-ui" values="JAVA_MODULE" />
-    </group>
-    <group name="vcs">
-      <project id="caat" values="Git" />
-      <project id="categorization-ui" values="Git" />
+      <project id="caat" values="JAVA_MODULE" />
     </group>
     <group name="frameworks">
       <project id="wstest" values="scala" />
     </group>
+    <group name="file-type">
+      <project id="wstest" values="XML,JAVA,Images,CSS,Scala,Play2,UNKNOWN,IDEA_MODULE,JavaScript,PLAIN_TEXT,Properties" />
+      <project id="kndl-util" values="ARCHIVE,PLAIN_TEXT,IDEA_PROJECT,Groovy,XML,UNKNOWN,Properties,IDEA_MODULE,JAVA,IDEA_WORKSPACE" />
+      <project id="categorization-ui" values="UNKNOWN,XML,PLAIN_TEXT,HTML,CSS,IDEA_PROJECT,IDEA_WORKSPACE,JavaScript,Images,ARCHIVE,Properties,Groovy,IDEA_MODULE,JAVA,JSON,Native" />
+      <project id="caat" values="Groovy,JSON,CLASS,C#,IDL,C++,IDEA_PROJECT,CSS,Native,DTD,IDEA_MODULE,HTML,JavaScript,Properties,XML,UNKNOWN,JAVA,SQL files,ARCHIVE,PLAIN_TEXT,IDEA_WORKSPACE,Images" />
+    </group>
     <group name="run-configuration-type-temp">
       <project id="kndl-util" values="Application" />
-      <project id="caat" values="JUnit,TestNG" />
-    </group>
-    <group name="file-type">
-      <project id="wstest" values="XML,Properties,PLAIN_TEXT,Scala,JavaScript,UNKNOWN,CSS,Images,JAVA,Play2,IDEA_MODULE" />
-      <project id="kndl-util" values="UNKNOWN,Properties,IDEA_MODULE,IDEA_WORKSPACE,ARCHIVE,IDEA_PROJECT,PLAIN_TEXT,XML,JAVA,Groovy" />
-      <project id="caat" values="C++,IDL,C#,CSS,ARCHIVE,SQL files,CLASS,IDEA_MODULE,IDEA_WORKSPACE,Images,XML,JavaScript,DTD,Native,Properties,JSON,JAVA,Groovy,UNKNOWN,PLAIN_TEXT,HTML,IDEA_PROJECT" />
-      <project id="categorization-ui" values="JAVA,Native,Images,XML,CSS,PLAIN_TEXT,IDEA_PROJECT,IDEA_WORKSPACE,Groovy,Properties,JSON,HTML,ARCHIVE,JavaScript,IDEA_MODULE,UNKNOWN" />
-    </group>
-    <group name="JavaScript versions">
-      <project id="wstest" values="DEFAULT" />
-      <project id="kndl-util" values="DEFAULT" />
-      <project id="caat" values="DEFAULT" />
-      <project id="categorization-ui" values="DEFAULT" />
+      <project id="caat" values="TestNG,JUnit" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="wstest" values="Project,Project" />
       <project id="kndl-util" values="Project,Project" />
-      <project id="caat" values="Project,Project" />
       <project id="categorization-ui" values="Project,Project" />
+      <project id="caat" values="Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="wstest" values="DEFAULT" />
+      <project id="kndl-util" values="DEFAULT" />
+      <project id="categorization-ui" values="DEFAULT" />
+      <project id="caat" values="DEFAULT" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -56,7 +56,7 @@
       <entry feature="execute.JUnit.Run" count="5" />
       <entry feature="execute.Remote.Debug" count="74" />
       <entry feature="execute.TestNG.Debug" count="2" />
-      <entry feature="execute.TestNG.Run" count="92" />
+      <entry feature="execute.TestNG.Run" count="93" />
     </counts>
   </component>
 </application>
