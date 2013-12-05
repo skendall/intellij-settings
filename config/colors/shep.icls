@@ -1530,6 +1530,61 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="Scala Abstract class">
+      <value>
+        <option name="FOREGROUND" value="c8ff68" />
+      </value>
+    </option>
+    <option name="Scala Class">
+      <value>
+        <option name="FOREGROUND" value="b8c6ff" />
+      </value>
+    </option>
+    <option name="Scala Class method call">
+      <value>
+        <option name="FOREGROUND" value="fff357" />
+      </value>
+    </option>
+    <option name="Scala Keyword">
+      <value>
+        <option name="FOREGROUND" value="12b1c9" />
+      </value>
+    </option>
+    <option name="Scala Local method call">
+      <value>
+        <option name="FOREGROUND" value="b2fcff" />
+      </value>
+    </option>
+    <option name="Scala Method declaration">
+      <value>
+        <option name="FOREGROUND" value="ddff4d" />
+      </value>
+    </option>
+    <option name="Scala Object">
+      <value>
+        <option name="FOREGROUND" value="ff828a" />
+      </value>
+    </option>
+    <option name="Scala Object method call">
+      <value>
+        <option name="FOREGROUND" value="ffd77b" />
+      </value>
+    </option>
+    <option name="Scala Predefined types">
+      <value>
+        <option name="FOREGROUND" value="68ff2c" />
+      </value>
+    </option>
+    <option name="Scala String">
+      <value>
+        <option name="FOREGROUND" value="44db00" />
+      </value>
+    </option>
+    <option name="Scala Template val">
+      <value>
+        <option name="FOREGROUND" value="ffa27c" />
+      </value>
+    </option>
     <option name="Scala Type Alias">
       <value>
         <option name="FOREGROUND" value="4e807d" />

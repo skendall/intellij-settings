@@ -28,14 +28,13 @@
       <project id="wstest" values="scala" />
     </group>
     <group name="file-type">
-      <project id="wstest" values="XML,JAVA,Images,CSS,Scala,Play2,UNKNOWN,IDEA_MODULE,JavaScript,PLAIN_TEXT,Properties" />
-      <project id="kndl-util" values="ARCHIVE,PLAIN_TEXT,IDEA_PROJECT,Groovy,XML,UNKNOWN,Properties,IDEA_MODULE,JAVA,IDEA_WORKSPACE" />
-      <project id="categorization-ui" values="UNKNOWN,XML,PLAIN_TEXT,HTML,CSS,IDEA_PROJECT,IDEA_WORKSPACE,JavaScript,Images,ARCHIVE,Properties,Groovy,IDEA_MODULE,JAVA,JSON,Native" />
-      <project id="caat" values="Groovy,JSON,CLASS,C#,IDL,C++,IDEA_PROJECT,CSS,Native,DTD,IDEA_MODULE,HTML,JavaScript,Properties,XML,UNKNOWN,JAVA,SQL files,ARCHIVE,PLAIN_TEXT,IDEA_WORKSPACE,Images" />
+      <project id="wstest" values="UNKNOWN,IDEA_MODULE,Properties,XML,Play2,JavaScript,JAVA,Scala,Images,PLAIN_TEXT,CSS" />
+      <project id="kndl-util" values="XML,JAVA,Groovy,Properties,ARCHIVE,IDEA_MODULE,IDEA_WORKSPACE,IDEA_PROJECT,UNKNOWN,PLAIN_TEXT" />
+      <project id="categorization-ui" values="XML,Groovy,IDEA_PROJECT,IDEA_WORKSPACE,JAVA,UNKNOWN,PLAIN_TEXT,Properties,JavaScript,Images,HTML,Native,IDEA_MODULE,JSON,ARCHIVE,CSS" />
+      <project id="caat" values="IDEA_PROJECT,Images,CSS,DTD,C++,Properties,IDEA_WORKSPACE,Groovy,SQL files,ARCHIVE,CLASS,Native,IDEA_MODULE,HTML,XML,UNKNOWN,JAVA,JSON,IDL,JavaScript,C#,PLAIN_TEXT" />
     </group>
     <group name="run-configuration-type-temp">
       <project id="kndl-util" values="Application" />
-      <project id="caat" values="TestNG,JUnit" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="wstest" values="Project,Project" />
@@ -54,9 +53,9 @@
     <counts>
       <entry feature="execute.Application.Run" count="24" />
       <entry feature="execute.JUnit.Run" count="5" />
-      <entry feature="execute.Remote.Debug" count="74" />
+      <entry feature="execute.Remote.Debug" count="75" />
       <entry feature="execute.TestNG.Debug" count="2" />
-      <entry feature="execute.TestNG.Run" count="93" />
+      <entry feature="execute.TestNG.Run" count="145" />
     </counts>
   </component>
 </application>

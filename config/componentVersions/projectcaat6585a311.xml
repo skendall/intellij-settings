@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
-  <component name="ChangeListManager" version="1385138235919" />
-  <component name="ChangesViewManager" version="1385137371338" />
-  <component name="CompilerConfiguration" version="1385137371340" />
-  <component name="CreatePatchCommitExecutor" version="1385137371342" />
-  <component name="DaemonCodeAnalyzer" version="1385137371342" />
-  <component name="DebuggerManager" version="1385137468601" />
-  <component name="DependencyValidationManager" version="1385137371343" />
-  <component name="Encoding" version="1385137371345" />
+  <component name="ChangeListManager" version="1386169473086" />
+  <component name="ChangesViewManager" version="1385572464330" />
+  <component name="CompilerConfiguration" version="1385572464333" />
+  <component name="CreatePatchCommitExecutor" version="1385572464334" />
+  <component name="DaemonCodeAnalyzer" version="1385572464334" />
+  <component name="DebuggerManager" version="1386170713433" />
+  <component name="DependencyValidationManager" version="1385572464336" />
+  <component name="Encoding" version="1385572464337" />
   <component name="EntryPointsManager" version="1385137503256" />
-  <component name="ExecutionTargetManager" version="1385137371345" />
-  <component name="FavoritesManager" version="1385137371345" />
-  <component name="FileEditorManager" version="1385138192404" />
-  <component name="FindManager" version="1385137503258" />
-  <component name="Git.Settings" version="1385137371345" />
-  <component name="GitLogSettings" version="1385137371346" />
-  <component name="IdeDocumentHistory" version="1385137371347" />
-  <component name="ProjectFrameBounds" version="1385138192405" />
-  <component name="ProjectLevelVcsManager" version="1385137371355" />
-  <component name="ProjectModuleManager" version="1385137371356" />
-  <component name="ProjectReloadState" version="1385137371356" />
-  <component name="ProjectRootManager" version="1385137371357" />
-  <component name="ProjectView" version="1385137503261" />
-  <component name="PropertiesComponent" version="1385137371357" />
+  <component name="ExecutionTargetManager" version="1385562187001" />
+  <component name="FavoritesManager" version="1385562187001" />
+  <component name="FileEditorManager" version="1386182561725" />
+  <component name="FindManager" version="1385562752209" />
+  <component name="Git.Settings" version="1385562187001" />
+  <component name="GitLogSettings" version="1385562187001" />
+  <component name="IdeDocumentHistory" version="1386016876485" />
+  <component name="ProjectFrameBounds" version="1386182561726" />
+  <component name="ProjectLevelVcsManager" version="1385572464347" />
+  <component name="ProjectModuleManager" version="1385572464348" />
+  <component name="ProjectReloadState" version="1385572464348" />
+  <component name="ProjectRootManager" version="1385572464348" />
+  <component name="ProjectView" version="1386172063245" />
+  <component name="PropertiesComponent" version="1386182561727" />
   <component name="RecentsManager" version="1384894961002" />
-  <component name="RunManager" version="1385137967195" />
-  <component name="ShelveChangesManager" version="1385137371375" />
-  <component name="ToolWindowManager" version="1385138192407" />
-  <component name="VcsContentAnnotationSettings" version="1385137371376" />
-  <component name="VcsDirectoryMappings" version="1385137371376" />
-  <component name="VcsManagerConfiguration" version="1385137371376" />
-  <component name="XDebuggerManager" version="1385137371377" />
-  <component name="editorHistoryManager" version="1385138192409" />
+  <component name="RunManager" version="1386169481486" />
+  <component name="ShelveChangesManager" version="1385572464363" />
+  <component name="ToolWindowManager" version="1386182561729" />
+  <component name="VcsContentAnnotationSettings" version="1385562187024" />
+  <component name="VcsDirectoryMappings" version="1385572464364" />
+  <component name="VcsManagerConfiguration" version="1385580431029" />
+  <component name="XDebuggerManager" version="1385572464365" />
+  <component name="editorHistoryManager" version="1386182380046" />
 </versions>
 
